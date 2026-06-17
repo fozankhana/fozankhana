@@ -33,7 +33,7 @@ Full-stack **MERN** app with a **React Native** mobile client and AI-powered doc
 
 **🧩 [Nexus](https://github.com/fozankhana/Nexus-ai-powered-skill-mapping-and-team-collaboration-platform)** — AI skill-mapping & team collaboration platform
 [add one line: what the AI actually does — e.g. matches people to teams via skill embeddings]
-`[add stack]`
+
 
 ### 📫 Reach me
 
