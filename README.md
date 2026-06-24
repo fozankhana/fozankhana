@@ -15,7 +15,7 @@
 **AI / ML:** LLMs · RAG pipelines · BM25 / vector retrieval · Llama (GGUF) · quantized & offline inference · multi-turn memory · streaming responses
 **Languages:** Python · JavaScript
 **Web & Mobile:** React · Node.js · Express · MongoDB (MERN) · React Native
-**Tools:** Git · REST APIs · [add: Docker / FastAPI / Hugging Face / LangChain — only what you've used]
+**Tools:** Git · REST APIs · [add: Docker / FastAPI / Hugging Face / LangChain]
 
 ### 🚀 Featured Projects
 
