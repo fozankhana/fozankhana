@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Fozan Khan 👋</h1>
 
 <p align="center">
-  <b>AI/ML Engineer — LLMs · RAG · Local Inference · Full-Stack</b>
+  <b>Engineer — LLMs · RAG · Local Inference · Full-Stack</b>
 </p>
 
 <p align="center">
